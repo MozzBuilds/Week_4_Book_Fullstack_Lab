@@ -1,0 +1,17 @@
+body > header > nav > ul{
+    list-style: none;
+    background-color:seashell;
+    margin: 0;
+    display: flex;
+    padding: 10px;
+}
+
+body > header > nav > ul > li{
+   padding-right: 15px;
+}
+
+body > header > nav > ul > li > a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid grey;
+}
